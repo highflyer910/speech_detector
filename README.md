@@ -1,1 +1,3 @@
-# speach_detector
+# speech_detector
+
+Use your browser's spech recognition capabilities
